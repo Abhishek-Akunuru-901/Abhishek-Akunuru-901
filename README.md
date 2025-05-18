@@ -23,4 +23,4 @@
 - **Adventure Works BI Report** – Data modeling & Power BI visuals 📊
 
 ## 📫 Let's Connect
-- [LinkedIn](linkedin.com/in/akunuruabhishek)
+- [LinkedIn]((https://www.linkedin.com/in/akunuruabhishek)
