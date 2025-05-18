@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Abhishek
 
-🔍 Senior System Engineer – EUC Analyst | Emerging Data Analyst
-📊 Skilled in SQL, Power BI, Excel, and Python (Pandas, NumPy)  
+🔍 **Senior System Engineer – EUC Analyst | Emerging Data Analyst**
+📊 Skilled in **SQL, Power BI, Excel, and Python (Pandas, NumPy)**  
 📈 Transitioning into Data Analytics with hands-on projects and case studies  
 
 ## 💼 Background
-- 🔧 2.7+ years at Infosys in EUC and IT Infrastructure
-- 🎯 Currently upskilling through Skillovilla's Data Analytics Program
+- 🔧 2.7+ years at **Infosys** in EUC and IT Infrastructure
+- 🎯 Currently upskilling through **Skillovilla's Data Analytics Program**
 
 ## 🧠 Tools & Skills
 - SQL, Power BI, Excel, Python (Pandas, NumPy, Matplotlib)
