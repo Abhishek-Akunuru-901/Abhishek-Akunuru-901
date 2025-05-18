@@ -15,12 +15,10 @@
 - SCCM, MS Intune, Azure AVD, MS Active Directory, Windows Administration
 
 ## 🛠️ Projects
-- **Capstone: Interactive Marketing Dashboard** – KPI tracking and campaign insights using Advanced Excel 📈
-- **Capstone: Store Performance Dashboard** – DAX-based KPIs and Power BI visuals for retail analytics 🏪
-- **Capstone: Airline Booking System** – SQL queries on multi-table relations 🛫
-- **Capstone: Python Data Cleaning** – Using Pandas & NumPy for ETL tasks 🧹
-- **Pizza Sales Analysis** – Revenue & Profit Analysis for Uncle Tony’s Pizzeria 🍕
-- **Adventure Works BI Report** – Data modeling & Power BI visuals 📊
+- **Excel Capstone: Interactive Marketing Dashboard** – KPI tracking and campaign insights using Advanced Excel 📈
+- **PowerBI Capstone: Store Performance Dashboard** – DAX-based KPIs and Power BI visuals for retail analytics 🏪
+- **SQL Capstone: Airline Booking System** – SQL queries on multi-table relations 🛫
+- **Python Capstone: Python Data Cleaning** – Using Pandas & NumPy for ETL tasks 🧹
 
 ## 📫 Let's Connect
 - [LinkedIn]((https://www.linkedin.com/in/akunuruabhishek)
