@@ -5,7 +5,7 @@
 📈 Transitioning into Data Analytics with hands-on projects and case studies  
 
 ## 💼 Background
-- 🔧 2.7+ years at **Infosys** in EUC and IT Infrastructure
+- 🔧 3.4+ years at **Infosys** in EUC | IT Infrastructure | Data Analytics
 - 🎯 Currently upskilling through **Skillovilla's Data Analytics Program**
 
 ## 🧠 Tools & Skills
