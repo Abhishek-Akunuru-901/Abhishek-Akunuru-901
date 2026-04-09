@@ -15,9 +15,9 @@
 - SCCM, MS Intune, Azure AVD, MS Active Directory, Windows Administration
 
 ## 🛠️ Projects
-- **Excel Capstone: Interactive Marketing Dashboard** – KPI tracking and campaign insights using Advanced Excel 📈
-- **PowerBI Capstone: Store Performance Dashboard** – DAX-based KPIs and Power BI visuals for retail analytics 🏪
-- **SQL Capstone: Airline Booking System** – SQL queries on multi-table relations 🛫
+- **Excel: Interactive Marketing Dashboard** – KPI tracking and campaign insights using Advanced Excel 📈
+- **PowerBI: Store Performance Dashboard** – DAX-based KPIs and Power BI visuals for retail analytics 🏪
+- **SQL: Airline Booking System** – SQL queries on multi-table relations 🛫
 - **Python Capstone: Python Data Cleaning** – Using Pandas & NumPy for ETL tasks 🧹
 
 ## 📫 Let's Connect
