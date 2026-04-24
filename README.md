@@ -1,24 +1,83 @@
-# 👋 Hi, I'm Abhishek
+<h1 align="center">Hi 👋, I'm Abhishek Akunuru</h1>
+<h3 align="center">Technology Analyst @ Infosys | Data Analyst</h3>
 
-🔍 **Senior System Engineer – EUC Analyst | Emerging Data Analyst**
-📊 Skilled in **SQL, Power BI, Excel, and Python (Pandas, NumPy)**  
-📈 Transitioning into Data Analytics with hands-on projects and case studies  
+<p align="center">
+  <a href="https://abhishek-akunuru-901.github.io/Abhishek-Akunuru-Portfolio/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/akunuruabhishek">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
-## 💼 Background
-- 🔧 3.4+ years at **Infosys** in EUC | IT Infrastructure | Data Analytics
-- 🎯 Currently upskilling through **Skillovilla's Data Analytics Program**
+---
 
-## 🧠 Tools & Skills
-- SQL, Power BI, Excel, Python (Pandas, NumPy, Matplotlib)
-- Business case analysis: Revenue, Inflation Impact, Market Competition
-- Data cleaning, transformation, and storytelling
-- SCCM, MS Intune, Azure AVD, MS Active Directory, Windows Administration
+## 🚀 About Me
+- 💻 3.5+ years at Infosys (EUC | IT Infrastructure | Data Analytics)  
+- 📊 Building dashboards, automations & KPI insights  
+- 🔍 Skilled in SQL, Power BI, Excel, Python  
+- 🎯 Transitioning into full-time Data Analyst roles  
+
+---
+
+## 🧠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black">
+</p>
+
+---
 
 ## 🛠️ Projects
-- **Excel: Interactive Marketing Dashboard** – KPI tracking and campaign insights using Advanced Excel 📈
-- **PowerBI: Store Performance Dashboard** – DAX-based KPIs and Power BI visuals for retail analytics 🏪
-- **SQL: Airline Booking System** – SQL queries on multi-table relations 🛫
-- **Python Capstone: Python Data Cleaning** – Using Pandas & NumPy for ETL tasks 🧹
 
-## 📫 Let's Connect
-- [LinkedIn]((https://www.linkedin.com/in/akunuruabhishek)
+### 📊 Shop Nest Sales Analysis Dashboard
+- Built Power BI dashboard with DAX & Power Query  
+- Analyzed regional sales & KPIs  
+- 🚀 Improved decision-making by **20%**  
+
+### 📈 Retail Sales Analysis Dashboard
+- Excel dashboards using PivotTables & formulas  
+- Identified trends & improved ROI by **18%**  
+
+### 🛫 Airline Database Analysis
+- SQL queries (joins, aggregations)  
+- Derived insights on passenger trends & revenue  
+
+### 🐍 Python Data Analysis
+- Data cleaning, transformation & EDA using Pandas  
+- Built reusable workflows  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Akunuru-901&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Akunuru-901&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Akunuru-901&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/akunuruabhishek  
+- 🌐 Portfolio: https://abhishek-akunuru-901.github.io/Abhishek-Akunuru-Portfolio/  
+- 💼 Open to Data Analyst opportunities  
+
+---
+
+⭐ From [Abhishek-Akunuru-901](https://github.com/Abhishek-Akunuru-901)
