@@ -13,17 +13,17 @@
 ---
 
 ## 🚀 About Me
--💻 3.5+ years of experience at Infosys (Data Analytics | EUC | IT Infrastructure)
+💻 3.5+ years of experience at Infosys (Data Analytics | EUC | IT Infrastructure)
 
--📊 Experienced in building Power BI dashboards, KPI reports, reporting automations, and operational analytics solutions
+📊 Experienced in building Power BI dashboards, KPI reports, reporting automations, and operational analytics solutions
 
--🔍 Skilled in SQL, Power BI, Excel, Python (Pandas, NumPy), ETL, and Data Visualization
+🔍 Skilled in SQL, Power BI, Excel, Python (Pandas, NumPy), ETL, and Data Visualization
 
--📈 Worked on workforce analytics, operational reporting, UCAS Results Day analytics, and trend analysis to support business decisions
+📈 Worked on workforce analytics, operational reporting, UCAS Results Day analytics, and trend analysis to support business decisions
 
--⚡ Passionate about transforming raw data into actionable insights and process improvements
+⚡ Passionate about transforming raw data into actionable insights and process improvements
 
--🎯 Focused on Data Analytics, Business Intelligence, and Reporting Solutions
+🎯 Focused on Data Analytics, Business Intelligence, and Reporting Solutions
 
 ---
 
