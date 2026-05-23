@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 3.5+ years at Infosys (EUC | IT Infrastructure | Data Analytics)  
+- 💻 3.5+ years at Infosys (Data Analytics | EUC | IT Infrastructure)  
 - 📊 Building dashboards, automations & KPI insights  
 - 🔍 Skilled in SQL, Power BI, Excel, Python  
 - 🎯 Transitioning into full-time Data Analyst roles  
