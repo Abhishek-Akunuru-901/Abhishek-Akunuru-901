@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Akunuru</h1>
-<h3 align="center">Technology Analyst @ Infosys | Data Analyst</h3>
+<h3 align="center">Technology Analyst @ Infosys | Data Analyst | Power BI & SQL Enthusiast</h3>
 
 <p align="center">
   <a href="https://abhishek-akunuru-901.github.io/Abhishek-Akunuru-Portfolio/">
@@ -8,57 +8,73 @@
   <a href="https://www.linkedin.com/in/akunuruabhishek">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
+  <a href="https://github.com/Abhishek-Akunuru-901">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-💻 3.5+ years of experience at Infosys (Data Analytics | EUC | IT Infrastructure)
 
-📊 Experienced in building Power BI dashboards, KPI reports, reporting automations, and operational analytics solutions
+💼 Data Analyst with **3.5+ years of experience at Infosys** delivering operational analytics, workforce intelligence, and business reporting solutions across enterprise environments
 
-🔍 Skilled in SQL, Power BI, Excel, Python (Pandas, NumPy), ETL, and Data Visualization
+📊 Experienced in building **Power BI dashboards, KPI scorecards, reporting automation frameworks, and workforce analytics solutions**
 
-📈 Worked on workforce analytics, operational reporting, UCAS Results Day analytics, and trend analysis to support business decisions
+🔍 Skilled in **Power BI, Advanced SQL (CTEs, Window Functions), Python (Pandas, NumPy), Excel, ETL, and Data Visualization**
 
-⚡ Passionate about transforming raw data into actionable insights and process improvements
+⚡ Automated **12+ reporting workflows**, reducing manual reporting effort by **~60%** and improving reporting turnaround from **3 days to 4 hours**
 
-🎯 Focused on Data Analytics, Business Intelligence, and Reporting Solutions
+📈 Worked on **SLA reporting, operational analytics, workforce utilization analysis, escalation trend monitoring, and Knowledge Management governance analytics**
+
+🚀 Analyzed **25K+ ServiceNow operational records** and **15K+ workforce datasets** to support executive decision-making and operational efficiency
+
+🏆 Microsoft Certified: **PL-300 Power BI Data Analyst Associate** | AZ-900 Certified | Currently pursuing DP-900 & AI-900
+
+🎯 Actively exploring opportunities in **Data Analytics, Business Intelligence, Reporting Analytics, and Workforce Analytics**
 
 ---
 
 ## 🧠 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel">
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau">
+  <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure">
 </p>
 
 ---
 
-## 🛠️ Projects
+## 📌 Featured Projects
 
-### 📊 Shop Nest Sales Analysis Dashboard
-- Built Power BI dashboard with DAX & Power Query  
-- Analyzed regional sales & KPIs  
-- 🚀 Improved decision-making by **20%**  
+### 📊 IT Service Desk & Knowledge Analytics Dashboard
+- Built enterprise Power BI dashboards analyzing **25K+ ServiceNow records**
+- Tracked SLA compliance, MTTR, escalation trends, ticket ageing, and workforce utilization
+- Automated reporting workflows using Power Automate
+- 🚀 Reduced reporting effort by **40%**
 
-### 📈 Retail Sales Analysis Dashboard
-- Excel dashboards using PivotTables & formulas  
-- Identified trends & improved ROI by **18%**  
+### 📈 Workforce Productivity & Operational Analytics
+- Processed **15K+ workforce records** using SQL & Python
+- Built interactive dashboards for productivity, attendance, and shift utilization analysis
+- Automated recurring operational reporting workflows
+- ⚡ Reduced manual effort by **35%**
 
-### 🛫 Airline Database Analysis
-- SQL queries (joins, aggregations)  
-- Derived insights on passenger trends & revenue  
+### 📚 Knowledge Base Governance Analytics
+- Designed governance analytics frameworks for KB utilization and incident-to-KB mapping
+- Automated SharePoint and approval workflows using Power Automate
+- Improved KB adoption and self-service efficiency by **30%**
 
-### 🐍 Python Data Analysis
-- Data cleaning, transformation & EDA using Pandas  
-- Built reusable workflows  
+### 🐍 Python Reporting Automation Framework
+- Automated recurring reports and data validation workflows using Python & PowerShell
+- Built reusable ETL and reporting pipelines using Pandas & NumPy
+- 🚀 Improved reporting efficiency by **~60%**
 
 ---
 
@@ -71,7 +87,7 @@
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Akunuru-901&theme=tokyo-night" />
@@ -79,11 +95,25 @@
 
 ---
 
+## 📜 Certifications
+
+- ✅ Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- ✅ Microsoft Azure Fundamentals (AZ-900)
+- 🔄 Azure Data Fundamentals (DP-900) — In Progress
+- 🔄 Azure AI Fundamentals (AI-900) — In Progress
+- ✅ Skillovilla Data Analytics Certification
+- ✅ Infosys Certified: Python Associate | SQL Professional | Business Analyst Associate
+
+---
+
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/akunuruabhishek  
-- 🌐 Portfolio: https://abhishek-akunuru-901.github.io/Abhishek-Akunuru-Portfolio/  
-- 💼 Open to Data Analyst opportunities  
+- 🔗 LinkedIn: https://www.linkedin.com/in/akunuruabhishek
+- 🌐 Portfolio: https://abhishek-akunuru-901.github.io/Abhishek-Akunuru-Portfolio/
+- 💻 GitHub: https://github.com/Abhishek-Akunuru-901
+- 📧 Email: abhi901460@gmail.com
+- 📍 Hyderabad, Telangana, India
+- 💼 Open to Data Analyst / BI Analyst / Reporting Analyst opportunities
 
 ---
 
