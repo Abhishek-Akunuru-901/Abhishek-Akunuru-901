@@ -17,21 +17,20 @@
 
 ## 🚀 About Me
 
-💼 Data Analyst with **3.5+ years of experience at Infosys** delivering operational analytics, workforce intelligence, and business reporting solutions across enterprise environments
+💼 **Technology Analyst | Data Analyst | Business Analyst** with **3.7+ years of experience at Infosys**, delivering Business Intelligence, operational analytics, workforce analytics, and reporting automation solutions across enterprise environments.
 
-📊 Experienced in building **Power BI dashboards, KPI scorecards, reporting automation frameworks, and workforce analytics solutions**
+📊 Experienced in designing **23+ executive Power BI dashboards**, KPI scorecards, Management Information (MI) reports, and interactive reporting solutions by collaborating with business stakeholders to translate reporting requirements into actionable insights.
 
-🔍 Skilled in **Power BI, Advanced SQL (CTEs, Window Functions), Python (Pandas, NumPy), Excel, ETL, and Data Visualization**
+🔍 Skilled in **Power BI (DAX, Power Query), Advanced SQL (CTEs, Window Functions, Subqueries), Python (Pandas, NumPy), Advanced Excel, ETL, Data Modelling, and Data Visualization.**
 
-⚡ Automated **12+ reporting workflows**, reducing manual reporting effort by **~60%** and improving reporting turnaround from **3 days to 4 hours**
+⚡ Automated **12+ reporting and data validation workflows** using Python, PowerShell, and Power Automate, reducing manual effort by **~60%** and cutting executive reporting turnaround from **3 days to 4 hours**.
 
-📈 Worked on **SLA reporting, operational analytics, workforce utilization analysis, escalation trend monitoring, and Knowledge Management governance analytics**
+📈 Analyzed **25K+ ServiceNow incidents** and **15K+ workforce datasets** to deliver insights on SLA compliance, workforce utilization, operational performance, escalation trends, and Knowledge Management governance.
 
-🚀 Analyzed **25K+ ServiceNow operational records** and **15K+ workforce datasets** to support executive decision-making and operational efficiency
+🏆 **Microsoft Certified:** PL-300 Power BI Data Analyst Associate | AZ-900 Azure Fundamentals | DP-900 Azure Data Fundamentals | **Infosys Certified Business Analyst Associate**
 
-🏆 Microsoft Certified: **PL-300 Power BI Data Analyst Associate** | AZ-900 Certified | Currently pursuing DP-900 & AI-900
+🎯 Passionate about building scalable analytics solutions and actively exploring opportunities in **Data Analytics, Business Analysis, Business Intelligence, Reporting Analytics, and Workforce Analytics.**
 
-🎯 Actively exploring opportunities in **Data Analytics, Business Intelligence, Reporting Analytics, and Workforce Analytics**
 
 ---
 
